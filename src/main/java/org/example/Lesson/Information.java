@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Lesson;
 
 public class Information {
     public static String code1;
